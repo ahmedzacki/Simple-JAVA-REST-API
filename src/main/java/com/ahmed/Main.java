@@ -58,18 +58,4 @@ public class Main {
         }
         customerRepository.save(customer);
     }
-
-
-//    @GetMapping("/greet")
-//    public GreetResponse greet() {
-//        GreetResponse response;
-//        response = new GreetResponse("Hello", List.of("java", "python"), new Person("Ahmed", 26));
-//        return response;
-//    }
-
-//    record Person(String name, int age) {}
-//
-//    record GreetResponse(String greet,
-//                         List<String> favProgrammingLanguages,
-//                         Person person) {}
 }
