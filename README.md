@@ -38,9 +38,13 @@ Once the application is running, you can access the API endpoints at http://loca
 ### Endpoints
 
 GET /customers: Retrieve a list of customers
+
 GET /customers/{id}: Retrieve a specific customer by ID
+
 POST /customers: Create a new customer
+
 PUT /customers/{id}: Update an existing customer
+
 DELETE /customers/{id}: Delete a customer
 
 ## Contributing
