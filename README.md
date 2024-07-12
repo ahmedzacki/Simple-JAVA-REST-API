@@ -12,6 +12,7 @@ This project is a simple Java REST API built with Spring Boot for managing custo
 - JDK 8 or higher
 - Maven
 - Git
+- PostgreSQL
 
 ### Installation
 
